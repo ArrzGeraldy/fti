@@ -120,7 +120,7 @@ const Home = () => {
         </section>
 
         {/* global market */}
-        <section className="w-[90%] md:max-w-3xl lg:max-w-6xl 2xl:max-w-7xl mx-auto pt-24 text-primary-900">
+        <section className="w-[90%] md:max-w-3xl lg:max-w-6xl 2xl:max-w-7xl mx-auto pt-24 text-primary-900 overflow-x-hidden">
           <div>
             <h2 className="text-4xl text-primary-900 font-bold">
               Global Market
